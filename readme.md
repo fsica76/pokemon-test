@@ -21,7 +21,7 @@ Requirements
 * Laravel Forms Collective
 
 ## Usage
-
+Nota: Colocar en el .env la api en URL_POKEMON = https://pokeapi.co/api/v2/pokemon/?offset=0&limit=964
 ```php
 
 composer install
