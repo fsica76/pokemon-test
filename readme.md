@@ -7,6 +7,35 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+# Pokemon Finder Test
+
+Ejercicio para buscar y listar los pokemones de la API PokeApi.
+
+
+
+Requirements
+============
+
+* Laravel 5.8
+* cURL Extension
+* Laravel Forms Collective
+
+## Usage
+
+```php
+
+composer install
+
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
